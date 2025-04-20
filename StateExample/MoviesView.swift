@@ -35,7 +35,7 @@ struct MoviesView: View {
                     .font(.headline)
                     .padding()
             }
-            .navigationTitle("Movie")
+            .navigationTitle("Movies")
         }
     }
 }

@@ -21,7 +21,7 @@ struct ContentView: View {
     @State private var count: Int = 0
     
     var body: some View {
-        VStack {
+        VStack (spacing: 24){
             
             Text("Count: \(count)")
             
